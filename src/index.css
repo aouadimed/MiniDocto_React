@@ -1,0 +1,7 @@
+@import './assets/css/tailwind.output.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles here */
